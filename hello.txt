@@ -1,1 +1,6 @@
 hello
+<<<<<<< HEAD
+=======
+hi atharva is dumb
+hi college wifi is dumb
+>>>>>>> 6ce725fcbb3a3e1ef9016d769ce2faf5a57b405a
